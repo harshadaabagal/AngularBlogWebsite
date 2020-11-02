@@ -1,0 +1,23 @@
+.blog-box {
+    text-align: center; 
+    margin-bottom: 20px;
+}
+.blog-box h3 {
+     margin:20px 0; 
+     font-size:22px;
+     color:#000;
+}
+.blog-box p {
+     color:#666;
+}
+.blog-box span, .posted-on span {
+     font-style: italic;
+     color:#000; 
+}
+.blog-box img { 
+    width:100%;
+}
+.mtb-40 {
+     margin:40px 0;
+     min-height:450px;
+}

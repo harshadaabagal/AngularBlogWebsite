@@ -1,3 +1,8 @@
+install node modules using npm install.
+install angular cli.
+copy bootstrap folder in node modules.
+
+
 # Blogger
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
